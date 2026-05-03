@@ -1,0 +1,36 @@
+CMakeFiles/faac.dir/src_x64/decoders/faac/libfaac/ltp.c.obj: \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\ltp.c \
+ E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ E:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ E:/mingw64/x86_64-w64-mingw32/include/math.h \
+ E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\frame.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\coder.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\channels.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\psych.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\fft.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\aacquant.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\faaccfg.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\ltp.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\tns.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\filtbank.h \
+ E:\libzplay_final_merge\out_fine\src_x64\decoders\faac\libfaac\util.h \
+ E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ E:/mingw64/x86_64-w64-mingw32/include/limits.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ E:/mingw64/x86_64-w64-mingw32/include/errno.h \
+ E:/mingw64/x86_64-w64-mingw32/include/memory.h

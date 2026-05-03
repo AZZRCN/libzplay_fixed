@@ -1,0 +1,1 @@
+  -L"E:/libzplay_final_merge/out_fine/out/mingw/MSVCRT/x86/release/-OF/lib"  "E:/libzplay_final_merge/out_fine/out/mingw/MSVCRT/x86/release/-OF/lib/liblibzplay.dll.dll.a" -lwinmm -luser32 -lgdi32 -lkernel32 -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

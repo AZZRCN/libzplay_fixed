@@ -1,0 +1,14 @@
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/zlib.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/ogg.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/vorbis.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/mad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/FLAC.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/faad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/a52.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/SoundTouch.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/zplay_shared.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/zplay_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/test_dll.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/test_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/edit_cache.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_mingw_debug/CMakeFiles/rebuild_cache.dir

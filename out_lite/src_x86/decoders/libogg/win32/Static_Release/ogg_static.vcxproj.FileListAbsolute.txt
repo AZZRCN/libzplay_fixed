@@ -1,0 +1,1 @@
+E:\expl\libzplay\libzplay-2.02-src\decoders\libogg\win32\Static_Release\ogg_static.lib

@@ -1,0 +1,7 @@
+CMakeFiles/a52.dir/src_x86/decoders/a52dec/liba52/bitstream.c.obj: \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\a52dec\liba52\bitstream.c \
+ E:/libzplay_final_merge/out_fine/src_x86/decoders/a52dec/include/config.h \
+ E:/libzplay_final_merge/out_fine/src_x86/decoders/a52dec/include/inttypes.h \
+ E:/libzplay_final_merge/out_fine/src_x86/decoders/a52dec/include/a52.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\a52dec\liba52\a52_internal.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\a52dec\liba52\bitstream.h

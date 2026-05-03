@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\test_static.dir/objects.a
+E:\mingw64\bin\ar.exe qc CMakeFiles\test_static.dir/objects.a @CMakeFiles\test_static.dir\objects1.rsp
+E:\mingw64\bin\g++.exe -w -DWIN32 -D_WINDOWS -DFLAC__NO_DLL -DFLAC__STATIC_BUILD -DLIB_ZPLAY_DYNAMIC -DLIB_ZPLAY_EXPORT_WITH_DEF_FILE -g3 -gdwarf-4 -D_DEBUG -O0 -mcrtdll=ucrt -fpermissive -O3 -DNDEBUG -mcrtdll=ucrt -Wl,--whole-archive CMakeFiles\test_static.dir/objects.a -Wl,--no-whole-archive -o E:\libzplay_final_merge\out_lite\out\mingw\UCRT\x64\release\-O0\example\test_static.exe -Wl,--out-implib,E:\libzplay_final_merge\out_lite\out\mingw\UCRT\x64\release\-O0\lib\libtest_static.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_static.dir\linkLibs.rsp

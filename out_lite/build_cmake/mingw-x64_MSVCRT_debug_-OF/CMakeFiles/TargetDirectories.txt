@@ -1,0 +1,14 @@
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/zlib.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/ogg.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/vorbis.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/mad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/FLAC.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/faad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/a52.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/SoundTouch.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/zplay_shared.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/zplay_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/test_dll.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/test_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/edit_cache.dir
+E:/libzplay_final_merge/out_lite/build_cmake/mingw-x64_MSVCRT_debug_-OF/CMakeFiles/rebuild_cache.dir

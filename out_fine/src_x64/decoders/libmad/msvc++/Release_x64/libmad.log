@@ -1,0 +1,243 @@
+﻿  decoder.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(152,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,5): error C2065: “mov”: 未声明的标识符
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2146: 语法错误: 缺少“;”(在标识符“imul”的前面)
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2065: “imul”: 未声明的标识符
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,10): error C2146: 语法错误: 缺少“;”(在标识符“y”的前面)
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2146: 语法错误: 缺少“;”(在标识符“shrd”的前面)
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2065: “shrd”: 未声明的标识符
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,15): error C2065: “edx”: 未声明的标识符
+  (编译源文件“../decoder.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(156,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“../decoder.c”)
+  
+  fixed.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(152,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,5): error C2065: “mov”: 未声明的标识符
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2146: 语法错误: 缺少“;”(在标识符“imul”的前面)
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2065: “imul”: 未声明的标识符
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,10): error C2146: 语法错误: 缺少“;”(在标识符“y”的前面)
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2146: 语法错误: 缺少“;”(在标识符“shrd”的前面)
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2065: “shrd”: 未声明的标识符
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,15): error C2065: “edx”: 未声明的标识符
+  (编译源文件“../fixed.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(156,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“../fixed.c”)
+  
+  frame.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(152,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,5): error C2065: “mov”: 未声明的标识符
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2146: 语法错误: 缺少“;”(在标识符“imul”的前面)
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2065: “imul”: 未声明的标识符
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,10): error C2146: 语法错误: 缺少“;”(在标识符“y”的前面)
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2146: 语法错误: 缺少“;”(在标识符“shrd”的前面)
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2065: “shrd”: 未声明的标识符
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,15): error C2065: “edx”: 未声明的标识符
+  (编译源文件“../frame.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(156,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“../frame.c”)
+  
+  layer12.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(152,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,5): error C2065: “mov”: 未声明的标识符
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2146: 语法错误: 缺少“;”(在标识符“imul”的前面)
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2065: “imul”: 未声明的标识符
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,10): error C2146: 语法错误: 缺少“;”(在标识符“y”的前面)
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2146: 语法错误: 缺少“;”(在标识符“shrd”的前面)
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2065: “shrd”: 未声明的标识符
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,15): error C2065: “edx”: 未声明的标识符
+  (编译源文件“../layer12.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(156,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“../layer12.c”)
+  
+  layer3.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(152,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,5): error C2065: “mov”: 未声明的标识符
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2146: 语法错误: 缺少“;”(在标识符“imul”的前面)
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2065: “imul”: 未声明的标识符
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,10): error C2146: 语法错误: 缺少“;”(在标识符“y”的前面)
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2146: 语法错误: 缺少“;”(在标识符“shrd”的前面)
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2065: “shrd”: 未声明的标识符
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,15): error C2065: “edx”: 未声明的标识符
+  (编译源文件“../layer3.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(156,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“../layer3.c”)
+  
+  synth.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(152,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,5): error C2065: “mov”: 未声明的标识符
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(153,9): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2146: 语法错误: 缺少“;”(在标识符“imul”的前面)
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,5): error C2065: “imul”: 未声明的标识符
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(154,10): error C2146: 语法错误: 缺少“;”(在标识符“y”的前面)
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2146: 语法错误: 缺少“;”(在标识符“shrd”的前面)
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,5): error C2065: “shrd”: 未声明的标识符
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,10): error C2065: “eax”: 未声明的标识符
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(155,15): error C2065: “edx”: 未声明的标识符
+  (编译源文件“../synth.c”)
+  
+E:\expl\libzplay\libzplay-2.02-src\decoders\libmad\fixed.h(156,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“../synth.c”)
+  
+  timer.c
+  version.c
+  正在生成代码...

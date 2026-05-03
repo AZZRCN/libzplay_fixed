@@ -1,0 +1,15 @@
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\adler32.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\adler32.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\compress.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\compress.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\crc32.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\crc32.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\deflate.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\deflate.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzclose.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\gzclose.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzlib.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\gzlib.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzread.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\gzread.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzwrite.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\gzwrite.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\infback.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\infback.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\inffast.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\inffast.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\inflate.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\inflate.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\inftrees.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\inftrees.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\trees.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\trees.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\uncompr.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\uncompr.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\zutil.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release\zutil.obj

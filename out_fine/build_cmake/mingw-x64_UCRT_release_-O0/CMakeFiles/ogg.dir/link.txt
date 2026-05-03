@@ -1,0 +1,2 @@
+E:\mingw64\bin\ar.exe qc E:\libzplay_final_merge\out_fine\out\mingw\UCRT\x64\release\-O0\lib\libogg_ogg.a CMakeFiles/ogg.dir/src_x64/decoders/libogg/src/bitwise.c.obj CMakeFiles/ogg.dir/src_x64/decoders/libogg/src/framing.c.obj
+E:\mingw64\bin\ranlib.exe E:\libzplay_final_merge\out_fine\out\mingw\UCRT\x64\release\-O0\lib\libogg_ogg.a

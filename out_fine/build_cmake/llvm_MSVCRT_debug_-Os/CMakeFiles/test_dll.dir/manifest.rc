@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/libzplay_final_merge/out_fine/build_cmake/llvm_MSVCRT_debug_-Os/CMakeFiles/test_dll.dir/embed.manifest"

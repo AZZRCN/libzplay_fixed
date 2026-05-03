@@ -1,0 +1,58 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "E:/libzplay_final_merge/out_fine/src_x86/src/libzplay.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/libzplay.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/libzplay.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/two_soundcards.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/two_soundcards.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/two_soundcards.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/waacdecoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/waacdecoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/waacdecoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/waacencoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/waacencoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/waacencoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wac3decoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wac3decoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wac3decoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/waudioprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/waudioprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/waudioprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wbmpfont.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wbmpfont.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wbmpfont.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wbpmdetect.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wbpmdetect1.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect1.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect1.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wbpmdetect2.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect2.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect2.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wbpmdetect3.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect3.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wbpmdetect3.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wcentercutprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wcentercutprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wcentercutprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wdecoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wdecoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wdecoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wechoprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wechoprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wechoprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wencoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wencoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wencoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/weqprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/weqprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/weqprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wfft.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wfft.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wfft.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wflacdecoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wflacdecoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wflacdecoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wflacencoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wflacencoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wflacencoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/winputprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/winputprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/winputprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wmp3decoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wmp3decoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wmp3decoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wmp3encoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wmp3encoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wmp3encoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wmp3x.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wmp3x.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wmp3x.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/woggdecoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/woggdecoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/woggdecoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/woutputprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/woutputprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/woutputprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wpcmdecoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wpcmdecoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wpcmdecoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wqueue.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wqueue.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wqueue.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wspectrum.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wspectrum.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wspectrum.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wstprocessor.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wstprocessor.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wstprocessor.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wtags.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wtags.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wtags.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wtools.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wtools.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wtools.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wvorbisencoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wvorbisencoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wvorbisencoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wwavedecoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wwavedecoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wwavedecoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wwaveencoder.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wwaveencoder.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wwaveencoder.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wwavein.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wwavein.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wwavein.cpp.obj.d"
+  "E:/libzplay_final_merge/out_fine/src_x86/src/wwavelet.cpp" "CMakeFiles/zplay_shared.dir/src_x86/src/wwavelet.cpp.obj" "gcc" "CMakeFiles/zplay_shared.dir/src_x86/src/wwavelet.cpp.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

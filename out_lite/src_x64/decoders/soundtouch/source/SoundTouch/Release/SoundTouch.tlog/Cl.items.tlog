@@ -1,0 +1,11 @@
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\AAFilter.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\AAFilter.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\BPMDetect.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\BPMDetect.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\cpu_detect_x86_win.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\cpu_detect_x86_win.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\FIFOSampleBuffer.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\FIFOSampleBuffer.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\FIRFilter.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\FIRFilter.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\mmx_optimized.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\mmx_optimized.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\PeakFinder.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\PeakFinder.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\RateTransposer.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\RateTransposer.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\SoundTouch.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\SoundTouch.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\sse_optimized.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\sse_optimized.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\TDStretch.cpp;E:\expl\libzplay\libzplay-2.02-src\decoders\soundtouch\source\SoundTouch\Release\TDStretch.obj

@@ -1,0 +1,14 @@
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/zlib.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/ogg.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/vorbis.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/mad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/FLAC.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/faad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/a52.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/SoundTouch.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/zplay_shared.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/zplay_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/test_dll.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/test_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/edit_cache.dir
+E:/libzplay_final_merge/out_lite/build_cmake/llvm-22_UCRT_release_-Os/CMakeFiles/rebuild_cache.dir

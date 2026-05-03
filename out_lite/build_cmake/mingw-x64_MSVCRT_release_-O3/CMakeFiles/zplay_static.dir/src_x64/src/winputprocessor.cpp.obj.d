@@ -1,0 +1,36 @@
+CMakeFiles/zplay_static.dir/src_x64/src/winputprocessor.cpp.obj: \
+ E:\libzplay_final_merge\out_lite\src_x64\src\winputprocessor.cpp \
+ E:/mingw64/x86_64-w64-mingw32/include/string.h \
+ E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ E:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ E:\libzplay_final_merge\out_lite\src_x64\src\debug.h \
+ E:/mingw64/x86_64-w64-mingw32/include/assert.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stdlib.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cstdlib \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/pstl/pstl_config.h \
+ E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ E:/mingw64/x86_64-w64-mingw32/include/limits.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ E:/mingw64/x86_64-w64-mingw32/include/errno.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std_abs.h \
+ E:\libzplay_final_merge\out_lite\src_x64\src\winputProcessor.h \
+ E:\libzplay_final_merge\out_lite\src_x64\src\waudioprocessor.h

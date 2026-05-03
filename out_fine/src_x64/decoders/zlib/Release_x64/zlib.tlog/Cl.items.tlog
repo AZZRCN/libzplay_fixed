@@ -1,0 +1,15 @@
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\adler32.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\adler32.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\compress.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\compress.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\crc32.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\crc32.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\deflate.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\deflate.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzclose.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\gzclose.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzlib.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\gzlib.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzread.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\gzread.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\gzwrite.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\gzwrite.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\infback.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\infback.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\inffast.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\inffast.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\inflate.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\inflate.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\inftrees.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\inftrees.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\trees.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\trees.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\uncompr.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\uncompr.obj
+E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\zutil.c;E:\expl\libzplay\libzplay-2.02-src\decoders\zlib\Release_x64\zutil.obj

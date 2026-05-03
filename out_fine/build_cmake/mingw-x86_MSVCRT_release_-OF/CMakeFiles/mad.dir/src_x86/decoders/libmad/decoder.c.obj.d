@@ -1,0 +1,26 @@
+CMakeFiles/mad.dir/src_x86/decoders/libmad/decoder.c.obj: \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\decoder.c \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\global.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/stdlib.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/corecrt.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/_mingw.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/vadefs.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/corecrt_wstdlib.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/limits.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/syslimits.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/limits.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/sec_api/stdlib_s.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/malloc.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/mm_malloc.h \
+ E:/mingw_all_version/i686-15.2.0-release-posix-dwarf-msvcrt-rt_v13-rev1/mingw32/i686-w64-mingw32/include/errno.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\stream.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\bit.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\frame.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\fixed.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\timer.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\synth.h \
+ E:\libzplay_final_merge\out_fine\src_x86\decoders\libmad\decoder.h

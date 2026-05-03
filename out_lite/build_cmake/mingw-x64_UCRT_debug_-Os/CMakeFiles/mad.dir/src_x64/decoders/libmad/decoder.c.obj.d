@@ -1,0 +1,26 @@
+CMakeFiles/mad.dir/src_x64/decoders/libmad/decoder.c.obj: \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\decoder.c \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\global.h \
+ E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ E:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ E:/mingw64/x86_64-w64-mingw32/include/limits.h \
+ E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ E:/mingw64/x86_64-w64-mingw32/include/errno.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\stream.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\bit.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\frame.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\fixed.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\timer.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\synth.h \
+ E:\libzplay_final_merge\out_lite\src_x64\decoders\libmad\decoder.h

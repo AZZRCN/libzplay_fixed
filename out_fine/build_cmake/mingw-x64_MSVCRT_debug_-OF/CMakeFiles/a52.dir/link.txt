@@ -1,0 +1,2 @@
+E:\mingw64\bin\ar.exe qc E:\libzplay_final_merge\out_fine\out\mingw\MSVCRT\x64\debug\-OF\lib\liba52_a52.a CMakeFiles/a52.dir/src_x64/decoders/a52dec/liba52/bit_allocate.c.obj CMakeFiles/a52.dir/src_x64/decoders/a52dec/liba52/bitstream.c.obj CMakeFiles/a52.dir/src_x64/decoders/a52dec/liba52/downmix.c.obj CMakeFiles/a52.dir/src_x64/decoders/a52dec/liba52/imdct.c.obj CMakeFiles/a52.dir/src_x64/decoders/a52dec/liba52/parse.c.obj
+E:\mingw64\bin\ranlib.exe E:\libzplay_final_merge\out_fine\out\mingw\MSVCRT\x64\debug\-OF\lib\liba52_a52.a

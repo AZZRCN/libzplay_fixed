@@ -1,0 +1,104 @@
+﻿  bitreader.c
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(161,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(162,3): error C2065: “mov”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(162,7): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(162,7): error C2065: “edx”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(163,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(163,3): error C2065: “mov”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(163,7): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(163,7): error C2065: “ecx”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(164,3): error C2146: 语法错误: 缺少“;”(在标识符“test”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(164,3): error C2065: “test”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(164,8): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(164,8): error C2065: “ecx”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(164,13): error C2065: “ecx”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(165,1): error C2146: 语法错误: 缺少“;”(在标识符“loop1”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(166,3): error C2065: “jz”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(166,6): error C2146: 语法错误: 缺少“;”(在标识符“done1”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(166,6): error C2065: “done1”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(167,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(167,3): error C2065: “mov”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(167,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(167,7): error C2065: “eax”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(167,12): error C2059: 语法错误:“[”
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(182,9): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(182,13): error C2223: “->crc16_align”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(183,12): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(183,18): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(183,18): error C2065: “word”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(184,12): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(184,18): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(184,18): error C2065: “word”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(185,12): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(185,18): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(185,18): error C2065: “word”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(186,12): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(186,16): error C2223: “->read_crc16”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(186,29): error C2065: “crc”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(186,29): error C2065: “word”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(204,2): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(204,6): error C2223: “->crc16_align”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(209,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(215,5): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(215,9): error C2223: “->consumed_words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(216,11): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(216,15): error C2223: “->consumed_words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(217,9): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(217,13): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(217,22): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(217,26): error C2223: “->bytes”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(218,11): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(218,15): error C2223: “->buffer”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(218,23): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(218,27): error C2223: “->buffer”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(218,62): warning C4022: “memmove”: 指针与实参 1 不匹配
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(218,3): error C2168: “memmove”: 内部函数的实参太少
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(220,3): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(220,7): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(221,3): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(221,7): error C2223: “->consumed_words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(227,11): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(227,15): error C2223: “->capacity”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(227,26): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(227,30): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(227,62): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(227,66): error C2223: “->bytes”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(229,3): warning C4098: “local_swap32_block_”:“void”函数返回值
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(230,26): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(230,30): error C2223: “->buffer”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(230,37): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(230,41): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(230,51): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(230,55): error C2223: “->bytes”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(242,5): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(242,9): error C2223: “->bytes”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,3): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,7): error C2223: “->buffer”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,14): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,18): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,27): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,27): error C2223: “->buffer”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,27): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(243,27): error C2198: “FLAC__uint32 local_swap32_(FLAC__uint32)”: 用于调用的参数太少
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(254,6): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(254,10): error C2223: “->read_callback”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(254,40): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(254,44): error C2223: “->client_data”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(255,3): warning C4098: “local_swap32_block_”:“void”函数返回值
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(265,9): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(265,13): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(265,42): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(265,46): error C2223: “->bytes”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(267,5): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(267,9): error C2223: “->cpu_info”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(267,53): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(267,57): error C2223: “->cpu_info”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(268,11): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(268,15): error C2223: “->words”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(269,23): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(269,27): error C2223: “->buffer”的左侧必须指向结构/联合
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(269,47): warning C4047: “函数”:“FLAC__uint32 *”与“unsigned int”的间接级别不同
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(269,47): warning C4024: “local_swap32_block_”: 形参和实参 1 的类型不同
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(269,3): error C2198: “void local_swap32_block_(FLAC__uint32 *,FLAC__uint32)”: 用于调用的参数太少
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(273,14): error C2065: “br”: 未声明的标识符
+E:\expl\libzplay\libzplay-2.02-src\decoders\libFLAC\bitreader.c(273,14): error C1003: 错误计数超过 100；正在停止编译

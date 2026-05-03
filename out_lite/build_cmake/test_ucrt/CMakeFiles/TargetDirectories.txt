@@ -1,0 +1,14 @@
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/zlib.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/ogg.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/vorbis.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/mad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/FLAC.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/faad.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/a52.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/SoundTouch.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/zplay_shared.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/zplay_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/test_dll.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/test_static.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/edit_cache.dir
+E:/libzplay_final_merge/out_lite/build_cmake/test_ucrt/CMakeFiles/rebuild_cache.dir

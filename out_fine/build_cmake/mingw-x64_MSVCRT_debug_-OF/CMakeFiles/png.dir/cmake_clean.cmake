@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/example.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/example.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/png.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/png.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngerror.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngerror.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngget.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngget.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngmem.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngmem.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngpread.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngpread.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngread.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngread.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngrio.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngrio.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngrtran.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngrtran.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngrutil.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngrutil.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngset.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngset.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngtest.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngtest.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngtrans.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngtrans.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwio.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwio.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwrite.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwrite.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwtran.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwtran.c.obj.d"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwutil.c.obj"
+  "CMakeFiles/png.dir/src_x64/decoders/lpng/pngwutil.c.obj.d"
+  "E:/libzplay_final_merge/out_fine/out/mingw/MSVCRT/x64/debug/-OF/lib/libpng_png.a"
+  "E:/libzplay_final_merge/out_fine/out/mingw/MSVCRT/x64/debug/-OF/lib/libpng_png.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/png.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
