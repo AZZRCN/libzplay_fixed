@@ -10,7 +10,7 @@
 > In the modern C/C++ ecosystem, finding an audio library that "just works with a single include" is almost a luxury. Most solutions either rely on massive underlying frameworks or come bundled with unwanted bloat.
 > 
 > 如果你只是想在几十 MB 甚至上百 MB 的项目里，播放一个格式工厂转换出来的、几十 KB 大小的提示音——你不需要 FFT 频谱分析，不需要均衡器，你只需要它能出声，且不带来额外的集成负担。
-> If you just want to play a tiny,几十-KB notification sound (converted by Format Factory) in a project tens or even hundreds of MB in size—you don't need FFT spectrum analysis, you don't need an EQ. You just need it to make a sound, without bringing extra integration baggage.
+> If you just want to play a tiny, tens-of-KB notification sound (converted by Format Factory) in a project tens or even hundreds of MB in size—you don't need FFT spectrum analysis, you don't need an EQ. You just need it to make a sound, without bringing extra integration baggage.
 > 
 > 基于这个近乎偏执的需求，我对 Zoran Cindori 的原版 libzplay 动了刀子。
 > Driven by this almost paranoid requirement, I took a scalpel to Zoran Cindori's original libzplay.
